@@ -3,7 +3,7 @@ import pandas as pd
 import streamlit as st
 import altair as alt
 
-
+  
 st.set_page_config(
     page_title="전월세 매물 경제성 비교 앱",
     page_icon="🏠",
